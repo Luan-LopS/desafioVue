@@ -60,7 +60,7 @@ import { computed } from 'vue';
         #total
           display: block
           color: green
-          font-size: 36px
+          font-size: 40px
 
 </style>
 
